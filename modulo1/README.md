@@ -1,4 +1,7 @@
-# Taller Módulo 1 — Salud Mundial🌎 **Autor:** Claudia Patricia Patiño Jaimes **Máster:** IA & Data Science —
+# Taller Integrador Módulo 1 — 
+**Data Set Salud Mundial🌎** 
+**Autor:** Claudia Patricia Patiño Jaimes 
+**Máster:** IA & Data Science —
 
 DevSeniorCode 
 
@@ -12,7 +15,8 @@ Para el analisis de los datos se hicieron filtros de las diferentes columnas arr
 
 El Data Set contiene informacion de 159 paises y 13 columnas que representan indicadores de salud que sirven para analizar estas problematicas de cada pais y region en el mundo.
 
-COLUMNAS ![alt text](image-1.png)
+COLUMNAS
+![alt text](image-1.png)
 
 
 ## Cómo ejecutar 
